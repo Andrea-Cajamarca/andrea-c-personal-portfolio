@@ -1,11 +1,11 @@
 /*
 
- Theme Name:   Twenty Fifteen Child
+ Theme Name:   myTheme
  Theme URI:    http://example.com/twenty-fifteen-child/
- Description:  Twenty Fifteen Child Theme
+ Description:  myTheme Child Theme
  Author:       John Doe
- Author URI:   _tk-master
- Template:     
+ Author URI:   http://example.com
+ Template:     _tk-master
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,11 +13,111 @@
  Text Domain:  twenty-fifteen-child
 */
 
+@import url("../_tk-master/style.css");
 
- .h1  {
-    font-family: inherit;
-    font-weight: 500;
-    line-height: 1.1;
-    color: inherit;
-    font-style: italic;
+body {
+	background-color: #66ffb3;
 }
+ .jumbotron{
+ 	background-color: #595959;
+ 	color: #cccccc;
+ }
+/*
+
+@keyframes cf3FadeInOut {
+  0% {
+  opacity:1;
+}
+45% {
+opacity:1;
+}
+55% {
+opacity:0;
+}
+100% {
+opacity:0;
+}
+}
+
+#cf3 img.top {
+animation-name: cf3FadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 10s;
+animation-direction: alternate;
+}
+*/
+
+
+
+
+
+
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+a {
+    color: #404040;
+    text-decoration: none;
+}
+
+#wpadminbar {
+    direction: ltr;
+    color: #ccc;
+    font: 400 13px/32px "Open Sans",sans-serif;
+    height: 32px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 600px;
+    z-index: 99999;
+    background: #595959;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+   /* background-color: rgb(35, 40, 45); */
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #d9d9d9;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
