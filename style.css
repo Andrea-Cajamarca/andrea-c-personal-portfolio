@@ -17,6 +17,7 @@
 
 body {
 	background-color: #66ffb3;
+    font-size: 18px;
 }
  .jumbotron{
  	background-color: #595959;
@@ -26,8 +27,43 @@ body {
 .navbar-collapse.collapse {
     display: block!important;
     height: auto!important;
-    padding-bottom: 0px;
+    padding-bottom: 30px;
+    padding-top: 15px;
     overflow: visible!important;
+}
+
+.navbar-collapse {
+    padding-right: 20px;
+    padding-left: 15px;
+    overflow-x: visible;
+    -webkit-overflow-scrolling: touch;
+    border-top: 1px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 25px;
+    line-height: 20px;
+    display: none;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.navbar-nav {
+    float: right;
+    margin: 0;
 }
 
 /*
