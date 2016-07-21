@@ -19,6 +19,10 @@ body {
 	background-color: #66ffb3;
     font-size: 18px;
 }
+
+h1 {
+    position: center;
+}
  .jumbotron{
  	background-color: #595959;
  	color: #cccccc;
@@ -30,7 +34,9 @@ body {
     padding-bottom: 30px;
     padding-top: 15px;
     overflow: visible!important;
-    background-color: #e6fff2;
+    background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
+    background-repeat: no-repeat;
+    background-position: wrap;
 
 }
 
@@ -174,7 +180,7 @@ a {
     font-size: 14px;
     line-height: 1.42857143;
     color: #555;
-    background-color: #d9d9d9;
+    background-color: #f2f2f2;
     background-image: none;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -184,6 +190,51 @@ a {
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out 
 
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    }
+
+
+input {
+    -webkit-appearance: textfield;
+    background-color: #f2f2f2;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+}
+
+textarea {
+    -webkit-appearance: textarea;
+    background-color: #f2f2f2;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    flex-direction: column;
+    resize: auto;
+    cursor: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border-width: 1px;
+    border-style: solid;
+    border-color: initial;
+    padding: 2px;
 }
 
 
