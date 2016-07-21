@@ -30,6 +30,8 @@ body {
     padding-bottom: 30px;
     padding-top: 15px;
     overflow: visible!important;
+    background-color: #e6fff2;
+
 }
 
 .navbar-collapse {
@@ -46,6 +48,8 @@ button, html input[type=button], input[type=reset], input[type=submit] {
     -webkit-appearance: button;
     cursor: pointer;
     border-radius: 12px;
+    background-color: #e6fff2;
+
 }
 
 .navbar-brand {
