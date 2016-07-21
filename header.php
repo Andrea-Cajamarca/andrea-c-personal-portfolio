@@ -40,8 +40,7 @@
 						<div class="jumbotron">
 							  <div class="container">
 
-							  	<div id="cf2" class="shadow">
- 									 <img class="bottom" src="/*https://www.theuntappedsource.com/image.php?id=49904" />
+							  	 <div class="shadow">
  									 <img class="top" src="https://66.media.tumblr.com/3ff4257010ae5fcf78a4a60d5ac7a3c9/tumblr_n871gdIFhH1t9ypv8o2_1280.jpg*/" />
 												</div>
 

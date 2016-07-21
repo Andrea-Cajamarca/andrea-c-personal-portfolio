@@ -20,12 +20,11 @@ body {
     font-size: 18px;
 }
 
-h1 {
-    position: center;
-}
  .jumbotron{
  	background-color: #595959;
  	color: #cccccc;
+    background-image: url("https://66.media.tumblr.com/3ff4257010ae5fcf78a4a60d5ac7a3c9/tumblr_n871gdIFhH1t9ypv8o2_1280.jpg*/“
+");
  }
 
 .navbar-collapse.collapse {
@@ -36,8 +35,7 @@ h1 {
     overflow: visible!important;
     background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
     background-repeat: no-repeat;
-    background-position: wrap;
-
+    text-align: center;
 }
 
 .navbar-collapse {
@@ -82,65 +80,11 @@ ul, menu, dir {
     margin: 0;
 }
 
-
-#cf2 {
-  position:relative;
-  height:281px;
-  width:450px;
-  margin:0 auto;
-}
-#cf2 img {
-  position:absolute;
-  left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
-}
-
-#cf2 img.transparent {
-opacity:0;
-}
-#cf_onclick {
-cursor:pointer;
-}
-
-/*
-
-@keyframes cf3FadeInOut {
-  0% {
-  opacity:1;
-}
-45% {
-opacity:1;
-}
-55% {
-opacity:0;
-}
-100% {
-opacity:0;
-}
-}
-
-#cf3 img.top {
-animation-name: cf3FadeInOut;
-animation-timing-function: ease-in-out;
-animation-iteration-count: infinite;
-animation-duration: 10s;
-animation-direction: alternate;
-}
-*/
-
-
-
-
-
-
-
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 25px;
     font-weight: 200;
+    text-align: center;
 }
 
 a {
@@ -237,6 +181,10 @@ textarea {
     padding: 2px;
 }
 
+.site-branding {
+    text-align: center;
+
+}
 
 
 
