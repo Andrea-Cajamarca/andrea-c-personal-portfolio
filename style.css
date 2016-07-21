@@ -23,6 +23,13 @@ body {
  .jumbotron{
  	background-color: #595959;
  	color: #cccccc;
+    width: 1140px;
+    height: 340px;
+    background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
  }
 
 .navbar-collapse.collapse {
@@ -31,7 +38,6 @@ body {
     padding-bottom: 30px;
     padding-top: 15px;
     overflow: visible!important;
-    background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -53,6 +59,24 @@ button, html input[type=button], input[type=reset], input[type=submit] {
     background-color: #e6fff2;
 
 }
+
+ /*bbubububu {
+    waetako koejbc cejnbj: ggejdvsxcchj;
+    dgbxvkyouib egucj
+    gevc c jjhdauuebhbhab
+    ywywh  nnciiiiiisgggs uwdgewvcvbbbbbc
+    ehgehjlgwydshybeydydhdhb cbcbcjd
+    dhdhcdjhcbwieuiuchwukch
+    cdw jchejwdshbcw
+    bu but 
+    bubtrf
+    but:
+    butbd;
+    ebvebedcve: 
+    ebhjeberc
+    ervechjebvefv
+    cgwehgryw c jjjjjj;
+ } */
 
 .navbar-brand {
     float: left;
@@ -80,12 +104,6 @@ ul, menu, dir {
 
  img.top {
     background-attachment: fixed; 
-}
-
-.shadow {
-    width: 1040px;
-    height:341px;
-    background-attachment: fixed;
 }
 
 .jumbotron p {

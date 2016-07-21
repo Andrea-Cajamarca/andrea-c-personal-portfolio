@@ -40,11 +40,6 @@
 						<div class="jumbotron">
 							  <div class="container">
 
-						<div class="shadow">
- 							<img class="top" src="https://66.media.tumblr.com/3ff4257010ae5fcf78a4a60d5ac7a3c9/tumblr_n871gdIFhH1t9ypv8o2_1280.jpg*/">
- 											
- 											</div> 
-
 								    <p> Inserting something here later...</p>
 	
 									  </div>
