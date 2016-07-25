@@ -25,9 +25,19 @@ body {
     background-size: cover;
 }
 
+.lead {
+    font-size: 18px;
+    color: #1a1a1a;
+}
+
+.hentry {
+    margin: 0 0 1.5em;
+    color: rebeccapurple;
+}
+
  .jumbotron{
  	background-color: #595959;
- 	color: #cccccc;
+ 	color: #ff9966;
     width: 1140px;
     height: 340px;
     background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
@@ -125,7 +135,7 @@ ul, menu, dir {
 }
 
 a {
-    color: #404040;
+    color: #336699;
     text-decoration: none;
 }
 
