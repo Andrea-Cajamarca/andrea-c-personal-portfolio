@@ -16,7 +16,7 @@
 @import url("../_tk-master/style.css");
 
 body {
-	/*background-color: #66ffb3; */
+	background-color: #6b402b; 
     font-size: 18px;
     background-image: url("http://landscapepainting.gallery/wp-content/uploads/2013/10/First-Light-on-the-Tay-450x256.jpg");
     background-repeat: no-repeat;
@@ -33,12 +33,13 @@ body {
 
 .hentry {
     margin: 0 0 1.5em;
-    color: rebeccapurple;
+    color: #212121;
+    font-style: bold;
 }
 
  .jumbotron{
  	background-color: #595959;
- 	color: #ff9966;
+ 	color: #fff9c4;
     width: 1140px;
     height: 340px;
     background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
@@ -78,8 +79,6 @@ button, html input[type=button], input[type=reset], input[type=submit] {
     -webkit-appearance: button;
     cursor: pointer;
     border-radius: 12px;
-    background-color: #e6fff2;
-
 }
 
  /*bbubububu {
@@ -136,9 +135,10 @@ ul, menu, dir {
 }
 
 a {
-   /* color: #336699; */
+    color: #212121;
     text-decoration: none;
 }
+
 
 #wpadminbar {
     direction: ltr;
@@ -151,7 +151,7 @@ a {
     width: 100%;
     min-width: 600px;
     z-index: 99999;
-    background: #595959;
+    background: #425063;
     background-image: initial;
     background-position-x: initial;
     background-position-y: initial;
@@ -161,7 +161,6 @@ a {
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-   /* background-color: rgb(35, 40, 45); */
 }
 
 .form-control {
