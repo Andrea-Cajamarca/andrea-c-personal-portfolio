@@ -120,7 +120,7 @@ ul, menu, dir {
 }
 
 .navbar-nav {
-    float: right;
+    text-align: center;
     margin: 0;
 }
 
