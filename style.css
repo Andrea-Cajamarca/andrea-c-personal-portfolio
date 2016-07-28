@@ -243,7 +243,7 @@ simple-social-icons ul li a, .simple-social-icons ul li a:hover {
 }
 
 .entry-content {
-    background-color: #fce1af;
+    background-color: #fcc5af;
     width: 100%;
     height: 100%;
     padding: 6px 12px;
@@ -251,6 +251,11 @@ simple-social-icons ul li a, .simple-social-icons ul li a:hover {
     padding-right: 12px;
     padding-bottom: 6px;
     padding-left: 12px;
+}
+
+.entry-meta {
+    clear: both;
+
 }
 
 .h1, h1 {
