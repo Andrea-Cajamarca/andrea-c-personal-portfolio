@@ -253,6 +253,11 @@ simple-social-icons ul li a, .simple-social-icons ul li a:hover {
     padding-left: 12px;
 }
 
+.h1, h1 {
+    font-size: 36px;
+    font-style: italic;
+}
+
 
 
 
