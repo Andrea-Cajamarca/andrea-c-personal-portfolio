@@ -274,6 +274,10 @@ div.wpcf7-validation-errors {
     padding: 10px 15px;
 }
 
+.navbar-default .navbar-collapse, .navbar-default {
+     border-color: #ffc59e;
+}
+
 
 
 
