@@ -233,6 +233,15 @@ textarea {
 
 }
 
+simple-social-icons ul li a, .simple-social-icons ul li a:hover {
+    background-color: #999999;
+    border-radius: 3px;
+    color: black;
+    border: 0px #ffffff solid;
+    font-size: 18px;
+    padding: 9px;
+}
+
 
 
 
