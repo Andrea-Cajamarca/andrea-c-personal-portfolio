@@ -217,22 +217,21 @@ textarea {
 
 .site-branding {
     text-align: center;
-
 }
 
-simple-social-icons ul li a, .simple-social-icons ul li a:hover {
-    background-color: #999999;
+.simple-social-icons ul li a, .simple-social-icons ul li a:hover {
+    background-color: #999999 !important;
     border-radius: 3px;
-    color: black;
-    border: 0px #ffffff solid;
+    color: #ffffff !important;
+    border: 0px #ffffff solid !important;
     font-size: 18px;
-    padding: 9px;
+    padding-left: 9px;
 }
 
-.alignleft {
+ ul.alignleft {
     display: inline;
-    float: left;
-    margin-right: 1.5em;
+    float: none;
+    margin-right: 2em;
 }
 
 
@@ -242,11 +241,11 @@ simple-social-icons ul li a, .simple-social-icons ul li a:hover {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    padding: 10px;
+    padding-left: 10px;
     padding-top: 0px;
     padding-right: 10px;
     padding-bottom: 0px;
-    padding-left: 10px;
+    padding-left: 10px; 
 }
 
 .entry-content {
@@ -284,12 +283,8 @@ div.wpcf7-validation-errors {
 
 img {
     height: 100%;
-    max-width: 100%;
+    width: 100%;
     border-radius: 50%;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    border-bottom-right-radius: 50%;
-    border-bottom-left-radius: 50%;
 }
 
 form {
@@ -301,7 +296,32 @@ form {
     position: relative;
 }
 
+.simple-social-icons ul li a {
+    border: none !important;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    display: inline-block;
+    font-family: 'ssi-icomoon';
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    line-height: 1em;
+    speak: none;
+    text-align: center;
+    text-decoration: none !important;
+    text-transform: none !important;
+    width: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-left: 20px;
+}
 
+/*div.wpcf7 img.ajax-loader {
+    border: none;
+    vertical-align: middle;
+    margin-left: 4px;
+} */
 
 
 
