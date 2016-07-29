@@ -259,6 +259,16 @@ div.wpcf7-validation-errors {
      border-color: #ffc59e;
 }
 
+img {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
 
 
 
