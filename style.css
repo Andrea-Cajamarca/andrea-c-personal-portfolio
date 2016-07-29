@@ -242,8 +242,7 @@ simple-social-icons ul li a, .simple-social-icons ul li a:hover {
 }
 
 .h1, h1 {
-    font-size: 36px;
-    font-style: italic;
+    font-style: italic; 
 }
 
 div.wpcf7-validation-errors {
