@@ -24,6 +24,7 @@ body {
     background-position: center;
     background-size: cover;
     font-family: 'Cardo', serif;
+    text-align: center;
 }
 
 .lead {
@@ -260,8 +261,7 @@ div.wpcf7-validation-errors {
 }
 
 img {
-    display: inline-block;
-    height: auto;
+    height: 100%;
     max-width: 100%;
     border-radius: 50%;
     border-top-left-radius: 50%;
