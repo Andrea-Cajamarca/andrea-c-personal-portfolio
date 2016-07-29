@@ -40,7 +40,7 @@ body {
 
  .jumbotron{
  	background-color: #ff9800;
- 	color: #fff9c4;
+ 	color: #FFE0B2;
     /*width: 1140px;
     height: 340px; */
     width: 100%;
@@ -246,6 +246,7 @@ textarea {
     padding-right: 10px;
     padding-bottom: 0px;
     padding-left: 10px; 
+    text-align: center;
 }
 
 .entry-content {

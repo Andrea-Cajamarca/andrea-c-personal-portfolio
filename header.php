@@ -37,13 +37,6 @@
 					</a>
 				<?php } // end if ( ! empty( $header_image ) ) ?>
 
-						<div class="jumbotron">
-							  <div class="container">
-
-								    <p> Inserting something here later...</p>
-	
-									  </div>
-												</div>
 
 
 
@@ -92,6 +85,13 @@
 					); ?>
 
 				</div><!-- .navbar -->
+				<div class="jumbotron">
+							  <div class="container">
+
+								    <p> Inserting something here later...</p>
+	
+									  </div>
+												</div>
 			</div>
 		</div>
 	</div><!-- .container -->
