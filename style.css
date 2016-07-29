@@ -41,13 +41,16 @@ body {
  .jumbotron{
  	background-color: #ff9800;
  	color: #fff9c4;
-    width: 1140px;
-    height: 340px;
+    /*width: 1140px;
+    height: 340px; */
+    width: 100%;
+    height: 100%;
   /*background-image: url("http://st.hzcdn.com/simgs/d6c1989804a49120_4-1648/southwestern-paintings.jpg");
     background-repeat: no-repeat; */
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    padding-bottom: 250px;
  }
 
 .navbar-collapse.collapse {
@@ -289,7 +292,14 @@ img {
     border-bottom-left-radius: 50%;
 }
 
+form {
+    display: block;
+    margin-top: 0em;
+}
 
+.wpcf7-form-control-wrap {
+    position: relative;
+}
 
 
 
