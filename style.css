@@ -108,9 +108,13 @@ ul, menu, dir {
 
 .navbar-nav {
     text-align: center;
-    margin: 0;
-    padding-left: 250px;
-    padding-right: 250px;
+    margin: 7.5px -15px;
+    margin-top: 7.5px;
+    margin-right: -15px;
+    margin-bottom: 7.5px;
+    margin-left: -15px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
  img.top {
