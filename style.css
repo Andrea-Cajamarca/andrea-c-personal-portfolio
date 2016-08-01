@@ -51,13 +51,14 @@ body {
     background-position: center;
     background-size: cover;
     padding-bottom: 250px;
+    padding-top: 250px
  }
 
 .navbar-collapse.collapse {
     display: block!important;
     height: auto!important;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     overflow: visible!important;
     background-repeat: no-repeat;
     text-align: center;
@@ -108,6 +109,8 @@ ul, menu, dir {
 .navbar-nav {
     text-align: center;
     margin: 0;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
  img.top {
@@ -326,6 +329,10 @@ img.ajax-loader {
     width: 16px;
 
 } 
+
+.container {
+    padding: 0;
+}
 
 
 
