@@ -18,7 +18,7 @@
 body {
 	background-color: #fff; 
     font-size: 19px;
-   /* background-image: url("http://landscapepainting.gallery/wp-content/uploads/2013/10/First-Light-on-the-Tay-450x256.jpg");
+    /* background-image: url("http://landscapepainting.gallery/wp-content/uploads/2013/10/First-Light-on-the-Tay-450x256.jpg");
     background-repeat: no-repeat; */
     background-attachment: fixed;
     background-position: center;
@@ -27,10 +27,12 @@ body {
     text-align: center;
 }
 
+
 .lead {
     font-size: 18px;
     color: #1a1a1a;
 }
+
 
 .hentry {
     margin: 0 0 1.5em;
@@ -38,7 +40,8 @@ body {
     font-style: bold;
 }
 
- .jumbotron{
+
+ .jumbotron {
  	background-color: #ff9800;
  	color: #FFE0B2;
     /*width: 1140px;
@@ -54,6 +57,7 @@ body {
     padding-top: 250px
  }
 
+
 .navbar-collapse.collapse {
     display: block!important;
     height: auto!important;
@@ -64,6 +68,7 @@ body {
     text-align: center;
     background-color: #FFC107;
 }
+
 
 .navbar-collapse {
     padding-right: 20px;
@@ -76,16 +81,19 @@ body {
     background-color: #ffffff;
 }
 
+
 navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     color: #555;
     background-color: #ffc374;
 }
+
 
 button, html input[type=button], input[type=reset], input[type=submit] {
     -webkit-appearance: button;
     cursor: pointer;
     border-radius: 12px;
 }
+
 
 .navbar-brand {
     float: left;
@@ -106,20 +114,25 @@ ul, menu, dir {
     -webkit-padding-start: 40px;
 }
 
+
 .navbar-nav {
+    float: right;
     text-align: center;
     margin: 7.5px -15px;
     margin-top: 7.5px;
     margin-right: -15px;
     margin-bottom: 7.5px;
     margin-left: -15px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 50px;
+    padding-right: 290px;
 }
+
+
 
  img.top {
     background-attachment: fixed; 
 }
+
 
 .jumbotron p {
     margin-bottom: 15px;
@@ -128,7 +141,8 @@ ul, menu, dir {
     text-align: center;
 }
 
-a {
+
+ a {
     color: #212121;
     text-decoration: none;
 }
@@ -157,6 +171,7 @@ a {
     background-clip: initial;
 }
 
+
 .form-control {
     display: block;
     width: 100%;
@@ -175,6 +190,7 @@ a {
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out 
 }
+
 
 button, input, select, textarea {
     font-family: inherit;
@@ -200,6 +216,7 @@ input {
     border-color: initial;
 }
 
+
 textarea {
     -webkit-appearance: textarea;
     background-color: #f2f2f2;
@@ -221,9 +238,11 @@ textarea {
     padding: 2px;
 }
 
+
 .site-branding {
     text-align: center;
 }
+
 
 .simple-social-icons ul li a, .simple-social-icons ul li a:hover {
     background-color: #999999 !important;
@@ -233,6 +252,7 @@ textarea {
     font-size: 18px;
     padding-right: 100px;
 }
+
 
  ul.alignleft {
     display: inline;
@@ -255,6 +275,7 @@ textarea {
     text-align: center;
 }
 
+
 .entry-content {
     background-color: #FFC107;
     width: 100%;
@@ -266,17 +287,21 @@ textarea {
     padding-left: 12px;
 }
 
+
 .entry-meta {
     clear: both;
 }
+
 
 .h1, h1 {
     font-style: italic; 
 }
 
+
 div.wpcf7-validation-errors {
     border: 2px solid white;
 }
+
 
 .nav>li>a {
     position: relative;
@@ -284,9 +309,11 @@ div.wpcf7-validation-errors {
     padding: 10px 15px;
 }
 
+
 .navbar-default .navbar-collapse, .navbar-default {
      border-color: #ffc59e;
 }
+
 
 img {
     height: 100%;
@@ -294,14 +321,17 @@ img {
     border-radius: 50%;
 }
 
+
 form {
     display: block;
     margin-top: 0em;
 }
 
+
 .wpcf7-form-control-wrap {
     position: relative;
 }
+
 
 .simple-social-icons ul li a {
     border: none !important;
@@ -324,6 +354,7 @@ form {
     padding-right: 100px;
 }
 
+
 img.ajax-loader {
     border: none;
     vertical-align: middle;
@@ -331,6 +362,7 @@ img.ajax-loader {
     height: 16px;
     width: 16px;
 } 
+
 
 .container {
     padding: 0;
