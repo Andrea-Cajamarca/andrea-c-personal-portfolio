@@ -231,7 +231,7 @@ textarea {
     color: #ffffff !important;
     border: 0px #ffffff solid !important;
     font-size: 18px;
-    padding-left: 9px;
+    padding-right: 100px;
 }
 
  ul.alignleft {
@@ -321,7 +321,7 @@ form {
     width: 1em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    padding-left: 100px;
+    padding-right: 100px;
 }
 
 img.ajax-loader {
