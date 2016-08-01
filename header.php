@@ -37,11 +37,6 @@
 					</a>
 				<?php } // end if ( ! empty( $header_image ) ) ?>
 
-
-
-
-				
-
 			</div>
 		</div>
 	</div><!-- .container -->
