@@ -174,14 +174,13 @@ a {
     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out 
-
 }
 
 button, input, select, textarea {
     font-family: inherit;
     font-size: inherit;
     line-height: inherit;
-    }
+}
 
 
 input {
@@ -322,7 +321,7 @@ form {
     width: 1em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    padding-left: 20px;
+    padding-left: 100px;
 }
 
 img.ajax-loader {
@@ -331,7 +330,6 @@ img.ajax-loader {
     margin-left: 4px;
     height: 16px;
     width: 16px;
-
 } 
 
 .container {
