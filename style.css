@@ -27,6 +27,10 @@ body {
     text-align: center;
 }
 
+p{
+    background-color: #FFC107;
+}
+
 
 .lead {
     font-size: 18px;
@@ -277,7 +281,7 @@ textarea {
 
 
 .entry-content {
-    background-color: #FFC107;
+    background-color: white;
     width: 100%;
     height: 100%;
     padding: 6px 12px;
@@ -368,9 +372,12 @@ img.ajax-loader {
     padding: 0;
 }
 
-img.alignnone {
-    height: 100%;
-    width: 100%;
+.main-content-inner {
+    background-color: white;
+}
+
+.entry-summary {
+    background-color: white;
 }
 
 
